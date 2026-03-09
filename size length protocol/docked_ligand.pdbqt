@@ -1,0 +1,12 @@
+REMARK  VINA RESULT:     -7.2      0.000      0.000
+REMARK GENERATED SAMPLE PDBQT FOR TESTING docking_judge.py
+MODEL 1
+ATOM      1  C   LIG A   1      17.310  11.820  15.200  1.00  0.00     0.208 C
+ATOM      2  O   LIG A   1      18.450  10.930  14.500  1.00  0.00    -0.312 OA
+ATOM      3  N   LIG A   1      16.200  10.750  14.100  1.00  0.00    -0.315 NA
+ATOM      4  C   LIG A   1      17.900  12.600  13.850  1.00  0.00     0.208 C
+ATOM      5  C   LIG A   1      16.500  11.100  12.900  1.00  0.00     0.208 C
+ATOM      6  C   LIG A   1      19.100  11.200  16.100  1.00  0.00     0.208 C
+ATOM      7  O   LIG A   1      15.800  12.400  15.800  1.00  0.00    -0.312 OA
+ATOM      8  C   LIG A   1      18.200  10.400  13.200  1.00  0.00     0.208 C
+ENDMDL
